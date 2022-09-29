@@ -1,4 +1,4 @@
-// VT82885P ADDRESS REGISTERS
+// DS1288 ADDRESS REGISTERS
 const uint8_t REGISTER_SECONDS = 0x00; // Seconds
 const uint8_t REGISTER_SECONDS_ALARM = 0x01; // Seconds alarm
 const uint8_t REGISTER_MINUTES = 0x02; // Minutes
